@@ -1,5 +1,5 @@
 # unl.fct.pt
-Created by AgustÃ­ TrullÃ©n Mulet.
+Created by Agustí Trullén Mulet.
 
 In Virus Lab 1 you have a files of the smashing stack virus.
 
